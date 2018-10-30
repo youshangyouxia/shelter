@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>象征自由的男人</title>
 </head>
 <body>
 <h1>EMMMMM</h1>
